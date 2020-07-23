@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "herokutest"
+    }
+  },
+  "defaultProject": "herokutest",
+  "cli": {
+    "analytics": "acaf6888-79b6-42e6-a90a-b8ea79f79f80"
+  }
 }
